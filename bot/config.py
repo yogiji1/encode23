@@ -23,9 +23,9 @@ class Config(object):
     DOWNLOAD_LOCATION = get_config("DOWNLOAD_LOCATION", "/app/downloads")
     # Telegram maximum file upload size
     BOT_USERNAME = get_config("BOT_USERNAME", "")
-    MAX_FILE_SIZE = 2097152000
-    TG_MAX_FILE_SIZE = 2097152000
-    FREE_USER_MAX_FILE_SIZE = 2097152000
+    MAX_FILE_SIZE = 4000000000
+    TG_MAX_FILE_SIZE = 4000000000
+    FREE_USER_MAX_FILE_SIZE = 4000000000
     # default thumbnail to be used in the videos
     DEF_THUMB_NAIL_VID_S = get_config("DEF_THUMB_NAIL_VID_S", "https://placehold.it/90x90")
     # proxy for accessing youtube-dl in GeoRestricted Areas
