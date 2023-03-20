@@ -53,7 +53,7 @@ async def incoming_start_message_f(bot, update):
      #     if user.status == "kicked":
       #         await bot.send_message(
       #             chat_id=update.chat.id,
-      #             text="Sorry Sir, You are Banned to use me. Contact my [Boss](https://t.me/Nur0ns).",
+      #             text="Sorry Sir, You are Banned to use me. Contact my [Boss](https://t.me/cmd_rulf).",
       #             parse_mode="markdown",
       #             disable_web_page_preview=True
       #          )
@@ -77,7 +77,7 @@ async def incoming_start_message_f(bot, update):
     #    except Exception:
      #       await bot.send_message(
       #          chat_id=update.chat.id,
-       #         text="Something went Wrong. Contact my [Boss](https://t.me/Nur0ns).",
+       #         text="Something went Wrong. Contact my [Boss](https://t.me/cmd_rulf).",
         #        parse_mode="markdown",
          #       disable_web_page_preview=True)
           #  return
@@ -87,7 +87,7 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('SOURCE CODE 🤤', url='https://t.me/TheBatmanShan')
+                    InlineKeyboardButton('SOURCE CODE 🤤', url='https://t.me/cmd_rulf')
                 ]
             ]
         ),
