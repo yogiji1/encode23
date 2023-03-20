@@ -87,7 +87,7 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Backup/Updates 🌐', url='https://t.me/Rulf_MLTB')
+                    InlineKeyboardButton('🌐 UPDATES 🌐', url='https://t.me/Rulf_MLTB')
                 ]
             ]
         ),
