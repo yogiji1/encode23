@@ -16,7 +16,7 @@ class Config(object):
 
     API_HASH = get_config("API_HASH", "6254b1f889fc35676a1a5c71d4259be3")
 
-    LOG_CHANNEL = get_config("LOG_CHANNEL", "hiworld2000004")
+    LOG_CHANNEL = get_config("LOG_CHANNEL", "big_to_flat_dump")
 
     UPDATES_CHANNEL = get_config("UPDATES_CHANNEL", None) # Without @ LOL
 
@@ -26,7 +26,7 @@ class Config(object):
 
         int(x) for x in get_config(
 
-            "AUTH_USERS", "5179011789 6263157611"
+            "AUTH_USERS", "6263157611 5179011789"
 
         ).split()
 
