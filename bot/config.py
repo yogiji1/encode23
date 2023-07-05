@@ -12,11 +12,11 @@ class Config(object):
 
     # sucks Dude
 
-    APP_ID = get_config("APP_ID", "11331366")
+    APP_ID = get_config("APP_ID", "23897874")
 
-    API_HASH = get_config("API_HASH", "6254b1f889fc35676a1a5c71d4259be3")
+    API_HASH = get_config("API_HASH", "ec91dd01da9693911a6ee4af5d0bef2c")
 
-    LOG_CHANNEL = get_config("LOG_CHANNEL", "big_to_flat_dump")
+    LOG_CHANNEL = get_config("LOG_CHANNEL", "New_Cmppsorr_Bot_Log")
 
     UPDATES_CHANNEL = get_config("UPDATES_CHANNEL", None) # Without @ LOL
 
@@ -26,7 +26,7 @@ class Config(object):
 
         int(x) for x in get_config(
 
-            "AUTH_USERS", "6263157611 5179011789"
+            "AUTH_USERS", "1572626591 6263157611"
 
         ).split()
 
@@ -38,7 +38,7 @@ class Config(object):
 
     # dont u fucking remove this id 😤
 
-    TG_BOT_TOKEN = get_config("TG_BOT_TOKEN", "6010795952:AAEJevPJy9igHhkexDRVDlzQ9r-TfgF4SEU")
+    TG_BOT_TOKEN = get_config("TG_BOT_TOKEN", "6015067653:AAGm-exC2Ei3GOVHCYzg4d_5R0B7pvK9bOM")
 
     # the download location, where the HTTP Server runs
 
@@ -46,7 +46,7 @@ class Config(object):
 
     # Telegram maximum file upload size
 
-    BOT_USERNAME = get_config("BOT_USERNAME", "UzumakiNarutox_bot")
+    BOT_USERNAME = get_config("BOT_USERNAME", "PROFE07XHBOT")
 
     MAX_FILE_SIZE = 2097152000
 
