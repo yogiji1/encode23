@@ -1,6 +1,6 @@
 # 720p-Encoder-pro
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/meiranbot/720P-ENCODER-BOT)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/720P-ENCODER-BOT)
 ::
 
 Oof 
