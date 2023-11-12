@@ -1,5 +1,5 @@
 # 720p-Encoder-pro
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/GitXBot101/SJ-Encoder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/meiranbot/720P-ENCODER-BOT)
 
 ::
 
