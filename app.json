@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/linux_repo",
   "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/meiranbot/720P-ENCODER-BOT",
+  "repository": "https://github.com/yogiji1/encode23",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
